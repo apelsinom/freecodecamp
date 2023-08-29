@@ -1,8 +1,8 @@
 // ❓ DESCRIPTION:
 // b should have a value of 7. a should be assigned to b with =.
-var a;
+let a;
 a = 7;
-var b;
+let b;
 
 // ✅ SOLUTION:
 b = a;
