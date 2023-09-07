@@ -19,3 +19,4 @@ function checkScope() {
   console.log('Function scope i is: ', i);
   return i;
 }
+console.log(checkScope())
